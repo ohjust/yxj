@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-argo1",
+  "name": "nodejs-argo",
   "version": "8.8.8",
   "description": "Thsi is a node project",
   "main": "index.js",
